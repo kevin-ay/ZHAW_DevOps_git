@@ -1,1 +1,3 @@
 Das ist eine Beispeildatei von Daniel
+
+Das ist eine Änderung an meiner eigenen Datei
