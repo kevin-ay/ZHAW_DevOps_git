@@ -1,0 +1,8 @@
+Das ist eine Beispeildatei von Daniel
+
+Das ist eine Änderung an meiner eigenen Datei
+
+Kevin war hier.
+
+Daniel war auch hier und hat eine Zeile hinzugefügt.
+
