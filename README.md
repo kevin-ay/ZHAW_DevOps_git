@@ -1,4 +1,4 @@
 # ZHAW_DevOps_git
 Gruppenarbeit DevOps
-Thinesan Sivapathasundaram
+Thinesan Sivapathasundaram - sivapthi
 Kevin Ayiramala
